@@ -1,0 +1,169 @@
+body{
+    font-family: 'Poppins', sans-serif;
+
+font-family: 'Rubik', sans-serif;
+margin: 0;
+
+}
+p{
+    color: rgb(90, 88, 88);
+}
+.mission{
+    display: flex;
+      
+}
+ h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 42px;
+}
+
+.half-width {
+    width: 50%;
+    padding-right: 77px;
+    padding-left: 110px;
+    padding-top: 45px;
+}
+.half-width span{
+    color:orange;
+}
+.half-width img{
+    margin-top: 0px;
+    margin-left: 100px;
+    height:400px;
+    
+    
+    
+    
+}
+.top-box {
+    border-left: 3px solid turquoise;
+    border-image: linear-gradient(tomato,orange);
+    border-image-slice: 1;
+    padding-left: 2%;
+    
+}
+.explore-now{
+    text-decoration: none;
+    color:white;
+    padding: 7px 25px;
+    background-image: linear-gradient(tomato,orange);
+    border-radius: 7%;
+    
+}
+.mi-vi-go{
+    width: 28.33%;
+    margin: 10px;
+    border-radius: 10%;
+    padding: 22px;
+}
+.mi-vi-go img{
+    width: 126px;
+}
+.first{
+    margin-left: 110px;
+    background-color: #d8f5f7;
+}
+.second{
+    background-color: #fde1ef;
+}
+.third{
+    margin-right: 78px;
+
+    background-color: #e3deae;
+}
+
+#mymission{
+    text-align: center;
+}
+.coding{
+    width: 35%;
+    padding-right: 77px;
+    padding-left: 110px;
+    padding-top: 45px;
+}
+.coding img {
+    margin-top: 0px;
+    margin-left: 0px;
+    height: 365px;
+}
+    
+.codingp{
+    width: 65%;
+    padding-right: 77px;
+    padding-left: 0px;
+    padding-top: 45px;
+
+}
+.codback{
+    background-image: url(images/shape-1.png);
+    background-position: 4% 48%;
+    background-repeat: no-repeat;
+    background-size: 222px;
+   
+}
+.codingpn{
+    width: 65%;
+padding-right: 0px;
+padding-left: 110px;
+padding-top: 45px;
+
+}
+.globalback {
+    background-image: url(images/shape-1.png);
+background-position: 100% 91%;
+background-repeat: no-repeat;
+background-size: 170px;
+padding-bottom: 85px;
+}
+.queation {
+    width: 50%;
+    padding-right: 77px;
+    padding-left: 110px;
+    padding-top: 45px;
+    margin-right: -99px;
+}
+.form {
+    width: 65%;
+    padding-right: 77px;
+    padding-left: 110px;
+    padding-top: 100px;
+    padding-bottom: 63px;
+}
+.form input{
+    width: 100%;
+    margin-bottom: 25px;
+border-top-style: none;
+border-right-style: none;
+border-left-style: none;
+background-color: hsla(0,0%,100%,0);
+color: rgba(48,51,58,.9);
+padding: 10px;
+}
+.queation h1{
+    padding: 0px;
+    margin: 0px;
+}
+
+.queation p{
+    color:orangered;
+    font-size: 40px;
+}
+.button{
+    border: none;
+text-decoration: none;
+color: white;
+padding: 11px 32px;
+background-image: linear-gradient(tomato,orange);
+border-radius: 7%;
+}
+footer{
+    text-align: center;
+    padding: 40px;
+    background: gray;
+    color: #040000;
+}
+footer span{
+    color:orangered;
+}
