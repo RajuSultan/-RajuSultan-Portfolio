@@ -167,3 +167,8 @@ footer{
 footer span{
     color:orangered;
 }
+#message {
+    width: 100%;
+    margin-bottom: 15px;
+    border: 1px gray;
+}
